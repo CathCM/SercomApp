@@ -19,4 +19,5 @@ public class Employee
     public ICollection<EmployeeContract> EmployeeContracts { get; set; }
     public ICollection<DailySchedule> DailySchedules { get; set; }
     public ICollection<EmployeeAddress> EmployeeAddresses { get; set; }
+    public ICollection<TicketEntry> TicketEntries { get; set; }
 }

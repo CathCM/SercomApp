@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "3eRHV4wDpkKA/tajodmxkNfdnRR6t7C+yKbBqKuLMk2XCBbf3kGbQUnqJapmKVaswyCWI2Dd1o3EspQFNNsXBA==",
+  "dgSpecHash": "3GUmFD/qczwKXyp7WnXeUWFW7utx6sHzbfZ/2J5y+NijUpv3Zs+IHyOHpx0EqUC6HMOaDqdTnQukjvCTh5Cvpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ccardenas.SERCOMNET\\RiderProjects\\SercomApp\\SercomApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\ccardenas.SERCOMNET\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
