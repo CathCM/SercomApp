@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SercomApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1636969447acde9868f5f6bdbac9e0723bc19bf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2685e941c83f623e535b71129765c63ff8438c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SercomApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SercomApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

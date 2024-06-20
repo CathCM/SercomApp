@@ -19,7 +19,7 @@ public class SercomDb : DbContext
     public DbSet<ExtraCompensation> ExtraCompensations { get; set; }
     public DbSet<Address> Addresses { get; set; }
     public DbSet<EmployeeAddress> EmployeeAddresses { get; set; }
-    public DbSet<Ticket> Tickets { get; set; }
+    public DbSet<Ticket> Tickets { get; set; } 
     public DbSet<TicketEntry> TicketEntries { get; set; }
     public DbSet<Company> Companies { get; set; }
     public DbSet<BusinessLine> BusinessLines { get; set; }
