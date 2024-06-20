@@ -26,7 +26,10 @@ public class SercomDb : DbContext
     public DbSet<CompanyContract> CompanyContracts { get; set; }
     public DbSet<PRTGProbe> PRTGProbes { get; set; }
     public DbSet<SalaryAllocation> SalaryAllocations { get; set; }
-
+    public SercomDb(DbContextOptions<SercomDb> options)
+        : base(options)
+    {
+    }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         // Employee configurations
