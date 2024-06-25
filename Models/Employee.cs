@@ -10,6 +10,8 @@ public class Employee
     public string Phone { get; set; }
     public DateTime BirthDate { get; set; }
     public int UserId { get; set; }
+    public int WoffuId { get; set; }
+    public int FreshId { get; set; }
     public int ScheduleId { get; set; }
     public int DepartmentId { get; set; }
 
