@@ -18,6 +18,6 @@ public class Employee
     public Department Department { get; set; }
     public ICollection<EmployeeContract> EmployeeContracts { get; set; }
     public ICollection<DailySchedule> DailySchedules { get; set; }
-    public ICollection<EmployeeAddress> EmployeeAddresses { get; set; }
+    public ICollection<EmployeeAddress> EmployeeAddresses { get; set; } 
     public ICollection<TicketEntry> TicketEntries { get; set; }
 }
